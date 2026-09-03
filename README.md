@@ -166,7 +166,7 @@ Provides weekly analysis of deposit balances across different business dimension
 Provides weekly analysis of account volumes across different business dimensions.
 Example:
 
-![Landing Page]()
+![Landing Page](https://github.com/ChintuCodes-dot/Bank-Deposit-Analysis/blob/main/Landing%20Page.png)
 
 ![Deposits Trends Analysis]()
 
