@@ -168,7 +168,7 @@ Example:
 
 ![Landing Page](https://github.com/ChintuCodes-dot/Bank-Deposit-Analysis/blob/main/Landing%20Page.png)
 
-![Deposits Trends Analysis]()
+![Deposits Trends Analysis](https://github.com/ChintuCodes-dot/Bank-Deposit-Analysis/blob/main/Deposits%20Trend.png)
 
 ![Accounts Trends Analysis]()
 
