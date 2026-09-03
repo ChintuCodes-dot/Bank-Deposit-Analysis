@@ -164,6 +164,14 @@ Provides weekly analysis of deposit balances across different business dimension
 3. Account Analysis
 
 Provides weekly analysis of account volumes across different business dimensions.
+Example:
+
+![Landing Page]()
+
+![Deposits Trends Analysis]()
+
+![Accounts Trends Analysis]()
+
 
 
 
