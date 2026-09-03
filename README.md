@@ -170,7 +170,7 @@ Example:
 
 ![Deposits Trends Analysis](https://github.com/ChintuCodes-dot/Bank-Deposit-Analysis/blob/main/Deposits%20Trend.png)
 
-![Accounts Trends Analysis]()
+![Accounts Trends Analysis](https://github.com/ChintuCodes-dot/Bank-Deposit-Analysis/blob/main/Accounts%20Trend.png)
 
 
 
